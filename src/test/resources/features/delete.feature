@@ -1,4 +1,4 @@
-Feature: send sample GET call
+Feature: send sample DELETE call
 Background:
   Given I GET a list of existing books
   And I create a new Book

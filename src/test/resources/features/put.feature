@@ -1,4 +1,4 @@
-Feature: send sample GET call
+Feature: send sample PUT call
 
   Scenario: sending sample PUT
     Given I GET a list of existing books
